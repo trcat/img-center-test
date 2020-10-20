@@ -91,9 +91,9 @@ div {
 
 ```css
 img {
-	margin-left: -500px;
+	margin-left: -500px; // 图片宽度的一半
 	position: relative;
-	left: 50%;
+	left: 50%; // 百分比基准值为视窗相等的值
 }
 ```
 
